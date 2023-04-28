@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nyctophilic-nikes&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nyctophilic-nikes&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=Nyctophilicnikes&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyctophilic-nikes&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyctophilic-nikes&show_icons=true&locale=en&layout=compact" alt="nyctophilic-nikes" /></p>
