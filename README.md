@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/70/9c/8d/709c8da4b207301a77fc503beec4e68f.png)
 <h1 align="center">Hi 👋, I'm Nikes</h1>
 <h3 align="center">Tokyo theme</h3>
 <img align="right" alt="uwu" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
